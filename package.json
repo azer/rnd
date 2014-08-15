@@ -1,0 +1,23 @@
+{
+  "name": "rnd",
+  "version": "0.0.0",
+  "description": "Return a random integer",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "random",
+    "random number",
+    "rand"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/rnd.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "devDependencies": {
+    "prova": "^1.14.0"
+  }
+}
