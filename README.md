@@ -19,6 +19,6 @@ random()
 random(99) // allows specifying the max n
 // => 35
 
-random(99, 77) // => max n and min n
+random(99, 77) // => max n (defaults to 999999999999) and min n (defaults to 0)
 // => 83
 ```
